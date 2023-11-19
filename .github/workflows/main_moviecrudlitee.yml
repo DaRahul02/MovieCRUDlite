@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'MovieCRUDlitee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0D7C1B153294655A8716314AFB12EFD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EA148C77DE340238EAD9BD948687594 }}
           package: .
